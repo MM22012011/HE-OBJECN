@@ -1,0 +1,46 @@
+body
+{
+  background-size: cover;  
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+.OD
+{
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px blue;
+    border-radius: 10px;
+}
+
+#ANIMALS
+{
+    font-size: 25px;
+    color: aliceblue;
+}
+
+#GADGETS
+{
+    font-size: 25px;
+    color: aliceblue;
+}
+
+#CARS
+{
+    font-size: 25px;
+    color: aliceblue;
+}
